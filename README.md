@@ -1,5 +1,5 @@
 # DojoTDD
 
-Luisa Suarez
-Juan Felipe
-Juan Restrepo
+Luisa Suarez  
+Juan Felipe  
+Juan Restrepo  
